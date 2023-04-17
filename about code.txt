@@ -1,0 +1,11 @@
+In this implementation, I have defined the updateVisibleComponent function in the AppComponent. It sets the visible component state to the specified component name.
+
+The HeaderComponent takes a prop setVisibleComponent that is a function to update the visible component state in the AppComponent.
+
+The Component1 component takes the same function as a prop and uses it in the handleButtonClick function to update the visible component state to Component2.
+
+When the HeaderComponent buttons are clicked, they call the setVisibleComponent function with the appropriate component name to update the visible component state in AppComponent.
+
+The renderVisibleComponent function in AppComponent uses the visible component state to conditionally render the appropriate component.
+
+When the Go to Component 2 button in Component1 is clicked, it calls the setVisibleComponent function to update the visible component state to Component2, which causes the Component2 to be rendered.
