@@ -57,10 +57,8 @@ function ImageGallery({ currentPhotoIndex, setCurrentPhotoIndex }) {
   );
 }
 
-export default function Component1({ setVisibleComponent }) {
-  const handleButtonClick = () => {
-    setVisibleComponent("Component2");
-  };
+export default function Component1() {
+  
 
   const [currentPhotoIndex, setCurrentPhotoIndex] = useState(0);
 
@@ -161,15 +159,7 @@ export default function Component1({ setVisibleComponent }) {
             I worked in various industries, found success, but my passion for
             coding persisted. Initially, I thought IT demanded excessive hard
             skills, but as I gained experience, I realized it wasn't as
-            intimidating. After researching, I created a{" "}
-            <span
-              className="bg-white
-                text-color9 font-bold text-[16px] px-[7px] pb-1 hover:cursor-pointer hover:bg-color9 hover:text-white 
-                "
-              onClick={handleButtonClick}
-            >
-              roadmap
-            </span>{" "}
+            intimidating. After researching, I created a roadmap
             to learn modern front-end technologies, studied this whole year, and
             now I'm excited to join the tech industry.
           </article>
