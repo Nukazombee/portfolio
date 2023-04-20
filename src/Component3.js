@@ -8,11 +8,11 @@ export default function Component3() {
        lg:gap-4 2xl:grid-cols-[450px_minmax(450px,_1fr)_460px] 2xl:w-[1500px] 2xl:h-full 2xl:grid-rows-[260px_260px_410px]"
       >
         <div
-          className="bg-white shadow-xl p-4 pb-0 m-2 lg:m-0 rounded-3xl mx-auto w-[420px] md:w-[480px] lg:col-start-1 lg:col-end-3 lg:w-full flex flex-col
+          className="bg-neutral-300 shadow-xl p-4 pb-0 m-2 lg:m-0 rounded-3xl mx-auto w-[420px] md:w-[480px] lg:col-start-1 lg:col-end-3 lg:w-full flex flex-col
             items-center 2xl:order-1 2xl:col-start-1 2xl:col-end-3 2xl:row-start-1 2xl:row-end-4 2xl:flex-row 2xl:flex-wrap 2xl:justify-evenly 2xl:items-start"
         >
           <h2 className="text-3xl font-extrabold text-color11 2xl:w-full">WEB DEV</h2>
-          <div className=" m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
+          <div className="bg-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
           transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
@@ -33,7 +33,7 @@ export default function Component3() {
               <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>
             </div>
           </div>
-          <div className=" m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
+          <div className="bg-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
           transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
@@ -54,7 +54,7 @@ export default function Component3() {
               <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>
             </div>
           </div>
-          <div className=" m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
+          <div className="bg-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
           transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img

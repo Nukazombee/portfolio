@@ -42,7 +42,7 @@ module.exports = {
         'color6': '#9BC1BC',
         'color7': '#4c5454',
         'color8': '#E6EBE0',
-        'color9': '#F2AF29',
+        'color9': '#007ea7',
         'color10': '#19647e',
         'color11': '#457B9D',
         'color12': '#3F88C5',
