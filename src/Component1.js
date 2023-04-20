@@ -97,7 +97,7 @@ export default function Component1() {
         </div>
 
         <div
-          className=" bg-color13  p-4 m-2 lg:m-0 rounded-3xl mx-auto w-[420px] md:w-[480px] 
+          className=" bg-color13 border-[8px] border-white border-solid p-4 m-2 lg:m-0 rounded-3xl mx-auto w-[420px] md:w-[480px] 
           shadow-xl lg:w-full lg:h-full lg:p-[32px] lg:pt-[50px] lg:mx-0 lg:mr-auto 2xl:pt-4
           lg:row-start-1 lg:row-end-3 lg:col-start-2 lg:col-end-3 lg:order-2 2xl:order-2 2xl:col-start-2 2xl:col-end-3 2xl:row-start-1 2xl:row-end-3 2xl:h-[960px]"
         >
@@ -105,54 +105,54 @@ export default function Component1() {
             MY ROAD TO CODING
           </h2>
 
-          <article className="text-justify ">
+          <article className="text-justify text-white">
             <span
-              className="bg-color11 text-white font-bold text-[32px]  
-              px-[7px] float-left mr-2 relative top-[-5px]"
+              className="bg-white text-color13 font-bold text-[32px]  
+              px-[7px] float-left mr-2 relative top-[-5px] rounded-xl"
             >
               2012
             </span>
             Although I always enjoyed programming, I never considered it as a
             potential career path. However, my interest led me to experiment
-            with the <b>Scirra Construct 2 engine</b>, where I learned how to
+            with the <b className="text-color11">Scirra Construct 2 engine</b>, where I learned how to
             effectively combine
-            <b> virtual objects, user interfaces, and data</b> to create
+            <b className="text-color11"> virtual objects, user interfaces, and data</b> to create
             functional applications and games.
           </article>
-          <hr class="border-1 border-t border-black mt-6 mb-6"></hr>
-          <article className="text-justify">
+          <hr class="border-4 border-t border-color11 mt-6 mb-6"></hr>
+          <article className="text-justify text-white">
             <span
-              className="bg-color11 text-white font-bold text-[32px]  
-              px-[7px] float-left mr-2 relative top-[-5px]"
+              className="bg-white text-color13 font-bold text-[32px]  
+              px-[7px] float-left mr-2 relative top-[-5px] rounded-xl"
             >
               2016
             </span>
             Later on, I expanded my skills to web development by using website
-            builders such as <b>WIX</b> and editing websites using{" "}
-            <b>WordPress</b>. Specifically, I helped my wife with her business
+            builders such as <b className="text-color11">WIX</b> and editing websites using{" "}
+            <b className="text-color11">WordPress</b>. Specifically, I helped my wife with her business
             website by making edits and updates using the WordPress platform.
           </article>
-          <hr class="border-1 border-t border-black mt-6 mb-6"></hr>
-          <article className="text-justify">
+          <hr class="border-4 border-t border-color11 mt-6 mb-6"></hr>
+          <article className="text-justify text-white">
             <span
-              className="bg-color11 text-white font-bold text-[32px]  
-              px-[7px] float-left mr-2 relative top-[-5px]"
+              className="bg-white text-color13 font-bold text-[32px]  
+              px-[7px] float-left mr-2 relative top-[-5px] rounded-xl"
             >
               2020
             </span>
             During the lockdown, I dedicated my free time to learning the basics
-            of <b>Object-Oriented Programming, C#, and the Unity</b> engine. I
-            applied my newfound knowledge to develop a <b>mobile game</b> called
-            Microorganic 2, which I proudly published on <b>Google Play</b>.
+            of <b className="text-color11">Object-Oriented Programming, C#, and the Unity</b> engine. I
+            applied my newfound knowledge to develop a <b className="text-color11">mobile game</b> called
+            Microorganic 2, which I proudly published on <b className="text-color11">Google Play</b>.
             Despite not receiving many downloads due to lack of marketing, the
             project was a success in terms of allowing me to gain valuable
             coding skills and experience.
           </article>
-          <hr class="border-1 border-t border-black mt-6 mb-6"></hr>
-          <article className="text-justify ">
+          <hr class="border-4 border-t border-color11 mt-6 mb-6"></hr>
+          <article className="text-justify text-white">
             <span
-              className="bg-color11 text-white font-bold text-[32px]  
-              px-[7px] float-left mr-2 relative top-[-5px] "
+              className="bg-white text-color13 font-bold text-[32px]  
+              px-[7px] float-left mr-2 relative top-[-5px] rounded-xl "
             >
               2023
             </span>
@@ -688,7 +688,7 @@ export default function Component1() {
         </div>
 
         <div
-          className="bg-neutral-300 p-4 m-2 shadow-xl rounded-3xl mx-auto w-[420px] 2xl:h-full
+          className="bg-neutral-300  p-4 m-2 shadow-xl rounded-3xl mx-auto w-[420px] 2xl:h-full
          md:w-[480px] lg:order-5 lg:col-start-1 lg:m-0 lg:col-end-3 lg:w-full lg:h-[130px] 2xl:order-5 2xl:col-start-1 2xl:col-end-2 2xl:flex 2xl:items-center"
         >
           <div className="flex justify-center items-center 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center ">

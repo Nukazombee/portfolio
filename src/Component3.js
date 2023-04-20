@@ -12,7 +12,7 @@ export default function Component3() {
             items-center 2xl:order-1 2xl:col-start-1 2xl:col-end-3 2xl:row-start-1 2xl:row-end-4 2xl:flex-row 2xl:flex-wrap 2xl:justify-evenly 2xl:items-start"
         >
           <h2 className="text-3xl font-extrabold text-color11 2xl:w-full">WEB DEV</h2>
-          <div className="bg-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
+          <div className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
           transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
@@ -33,7 +33,7 @@ export default function Component3() {
               <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>
             </div>
           </div>
-          <div className="bg-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
+          <div className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
           transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
@@ -54,7 +54,7 @@ export default function Component3() {
               <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>
             </div>
           </div>
-          <div className="bg-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
+          <div className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
           transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
@@ -77,27 +77,27 @@ export default function Component3() {
           </div>
         </div>
         <div
-          className="bg-white p-4 m-2 shadow-xl rounded-3xl mx-auto w-[420px] 
+          className="bg-white p-4 m-2  shadow-xl rounded-3xl mx-auto w-[420px] 
          md:w-[480px] lg:order-1 lg:col-start-1 lg:m-0 lg:col-end-2 lg:w-full lg:h-full 2xl:order-2 2xl:col-start-3 2xl:col-end-4 2xl:row-start-1
          2xl:row-end-3 2xl:flex 2xl:items-center 2xl:flex-col"
         >
           <h2 className="text-3xl font-extrabold mb-6 text-color11 2xl:mb-3">PERSONAL</h2>
           <div className="flex justify-center items-center lg:flex-col 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center">
-            <div className="flex justify-between items-center lg:bg-color13 lg:mb-4  rounded-2xl group hover:cursor-pointer">
+            <div className="flex justify-between items-center lg:bg-color11  lg:mb-4  rounded-2xl group hover:cursor-pointer">
               <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic1a.png" />
-              <p className="hidden lg:inline-block p-2 mr-2">A ahfjasjkj sadfafas fabout lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
+              <p className="hidden lg:inline-block p-2 mr-2 lg:text-white">A ahfjasjkj sadfafas fabout lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
-            <div className="flex justify-between items-center lg:bg-color13 lg:mb-4  rounded-2xl group hover:cursor-pointer">
+            <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
             <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic2a.png" />
-              <p className="hidden lg:inline-block p-2">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
+              <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
-            <div className="flex justify-between items-center lg:bg-color13 lg:mb-4  rounded-2xl group hover:cursor-pointer">
+            <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
             <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic3a.png" />
-              <p className="hidden lg:inline-block p-2">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
+              <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
-            <div className="flex justify-between items-center lg:bg-color13 lg:mb-4  rounded-2xl group hover:cursor-pointer">
+            <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
             <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic4a.png" />
-              <p className="hidden lg:inline-block p-2">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
+              <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
           </div>
         </div>
