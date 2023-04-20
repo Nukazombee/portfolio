@@ -59,7 +59,7 @@ export default function Component1 (){
         <div className="bg-white shadow-xl p-4 m-2 rounded-3xl w-[100%] flex flex-col
         items-start">
           <p className="font-semibold">Hello! My name is</p>
-          <h1 className="font-bold text-[40px] text-color4">Denis Kurdiukov</h1>
+          <h1 className="font-bold text-[40px] text-color9">Denis Kurdiukov</h1>
           <article className="text-left">Passionate junior front-end developer skilled in creating visually 
           appealing, responsive websites and apps using latest technologies.
           </article>

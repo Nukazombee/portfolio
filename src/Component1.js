@@ -180,7 +180,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center  ">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
                   ERUDITION
                 </p>
               </div>
@@ -232,7 +232,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center ">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
                   PATIENCE
                 </p>
               </div>
@@ -283,7 +283,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
                   CREATIVITY
                 </p>
               </div>
@@ -334,7 +334,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
                   TEAMWORK
                 </p>
               </div>
@@ -385,7 +385,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
                   ACCURACY
                 </p>
               </div>
@@ -436,7 +436,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px] 2xl:relative 2xl:left-3">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px] 2xl:relative 2xl:left-3">
                   TROUBLESHOOT
                 </p>
               </div>
@@ -487,7 +487,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 font-bold group-hover:text-amber-600 transition ease-in-out duration-300 text-[22px] leading-[22px] 2xl:relative 2xl:left-3">
+                <p className="text-color11 font-bold group-hover:text-amber-600 transition ease-in-out duration-300 text-[22px] leading-[22px] 2xl:relative 2xl:left-3">
                   PRIORITIZATION
                 </p>
               </div>
@@ -538,7 +538,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px] 2xl:text-[20px] 2xl:relative 2xl:left-3">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px] 2xl:text-[20px] 2xl:relative 2xl:left-3">
                   COMMUNICATION
                 </p>
               </div>
@@ -589,7 +589,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px]  ">
                   DISCIPLINE
                 </p>
               </div>
@@ -641,7 +641,7 @@ export default function Component1() {
           >
             <div className="flex justify-between items-center h-[55px] w-[350px] mx-auto 2xl:w-full 2xl:h-[38px]">
               <div className="w-[60%] h-[100%] flex justify-end items-center">
-                <p className="text-color12 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px] ">
+                <p className="text-color11 group-hover:text-amber-600 transition ease-in-out duration-300 font-bold text-[22px] leading-[22px] ">
                   ADAPTABILITY
                 </p>
               </div>
@@ -691,11 +691,11 @@ export default function Component1() {
           className="bg-white p-4 m-2 shadow-xl rounded-3xl mx-auto w-[420px] 2xl:h-full
          md:w-[480px] lg:order-5 lg:col-start-1 lg:m-0 lg:col-end-3 lg:w-full lg:h-[130px] 2xl:order-5 2xl:col-start-1 2xl:col-end-2 2xl:flex 2xl:items-center"
         >
-          <div className="flex justify-center items-center 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center">
-            <img className="scale-75 " src="../photos/igex2.png" />
-            <img className="scale-75 " src="../photos/fbex2.png" />
-            <img className="scale-75 " src="../photos/gitex2.png" />
-            <img className="scale-75 " src="../photos/gpex2.png" />
+          <div className="flex justify-center items-center 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center ">
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/igex2.png" />
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/fbex2.png" />
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/gitex2.png" />
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/gpex2.png" />
           </div>
         </div>
       </div>
