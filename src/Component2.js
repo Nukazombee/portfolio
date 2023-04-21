@@ -30,9 +30,16 @@ export default function Component2() {
                   typesetting industry.
                 </p>
               </div>
-              <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className=" bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-orange-400 flex items-center justify-center">
-                  <p className="text-white text-center">25%</p>
+              <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px] ">
+                <div
+                  className=" bg-primary text-center w-[75%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-orange-400 
+                overflow-hidden flex items-center justify-center relative rounded-r-xl "
+                >
+                  <div
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r from-orange-400 to-orange-600 transition ease-out duration-200  w-full h-full  
+                  group-hover:translate-x-[0%] group-hover:opacity-100 z-10 rounded-r-xl"
+                  ></div>
+                  <p className="text-white text-center z-20">75%</p>
                 </div>
               </div>
               <img
@@ -59,8 +66,12 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className=" bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-blue-400 flex items-center justify-center">
-                  <p className="text-white text-center">25%</p>
+                <div className=" rounded-r-xl relative overflow-hidden bg-primary text-center w-[75%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-blue-400 flex items-center justify-center">
+                <div
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-sky-600 from-blue-400 transition ease-out duration-200  w-full h-full  
+                  group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
+                  ></div>
+                  <p className="text-white text-center z-20">75%</p>
                 </div>
               </div>
               <img
@@ -87,8 +98,12 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className=" bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-yellow-400 flex items-center justify-center">
-                  <p className="text-white text-center">25%</p>
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[50%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-yellow-400 flex items-center justify-center">
+                <div
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-orange-400 from-yellow-400 transition ease-out duration-200  w-full h-full  
+                  group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
+                  ></div>
+                  <p className="text-white text-center z-20">50%</p>
                 </div>
               </div>
               <img
@@ -115,8 +130,12 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className=" bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-400 flex items-center justify-center">
-                  <p className="text-white text-center">25%</p>
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[40%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-400 flex items-center justify-center">
+                <div
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-sky-500 from-cyan-300 transition ease-out duration-200  w-full h-full  
+                  group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
+                  ></div>
+                  <p className="text-white text-center z-20">40%</p>
                 </div>
               </div>
               <img
@@ -143,8 +162,12 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className=" bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-emerald-400 flex items-center justify-center">
-                  <p className="text-white text-center">25%</p>
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[80%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-emerald-400 flex items-center justify-center">
+                <div
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-emerald-500 from-teal-300 transition ease-out duration-200  w-full h-full  
+                  group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
+                  ></div>
+                  <p className="text-white text-center z-20">80%</p>
                 </div>
               </div>
               <img
@@ -171,8 +194,12 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className=" bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-500 flex items-center justify-center">
-                  <p className="text-white text-center">25%</p>
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-500 flex items-center justify-center">
+                <div
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-indigo-500 from-violet-400 transition ease-out duration-200  w-full h-full  
+                  group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
+                  ></div>
+                  <p className="text-white text-center z-20">25%</p>
                 </div>
               </div>
               <img
@@ -199,8 +226,12 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className=" bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-red-500 flex items-center justify-center">
-                  <p className="text-white text-center">25%</p>
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[50%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-red-500 flex items-center justify-center">
+                <div
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-red-600 from-red-400 transition ease-out duration-200  w-full h-full  
+                  group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
+                  ></div>
+                  <p className="text-white text-center z-20">50%</p>
                 </div>
               </div>
               <img
