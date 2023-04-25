@@ -12,8 +12,9 @@ export default function Component3() {
             items-center 2xl:order-1 2xl:col-start-1 2xl:col-end-3 2xl:row-start-1 2xl:row-end-4 2xl:flex-row 2xl:flex-wrap 2xl:justify-evenly 2xl:items-start"
         >
           <h2 className="text-3xl font-extrabold text-color11 2xl:w-full">WEB DEV</h2>
-          <div className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
-          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
+          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2  shadow-xl rounded-2xl hover:scale-105 
+          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform" href="https://symphonious-wisp-7d0bd7.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <div >
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
                 src="../photos/img1.jpg"
@@ -21,20 +22,21 @@ export default function Component3() {
               />
             </div>
             <h3 className="text-[22px] font-bold text-black 2xl:font-semibold mt-2 mx-4 mb-1">
-              FAhafhha ahfajjafjk
+              SOUNDATION
             </h3>
             <p className=" text-black text-left mx-4 mt-0  mb-5">
-              Fafasgsad about algfk and slg;dsgsdl;gl using klasklfkl and wihtok
-              sdg klsdgkl; lsdg. KGSKdskg. sdgkkdsg
+              Responsive website template built with HTML and vanilla CSS. Features: burger menu, smooth card onHover effects and classy design.
             </p>
-            <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5">
-              <p className="bg-color9 px-[8px] m-[4px] rounded-md">HTML</p>
-              <p className="bg-color11 px-[8px] m-[4px] rounded-md">CSS</p>
-              <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>
+            <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5 lg:mb-1">
+              <p className="bg-orange-400 px-[8px] m-[4px] rounded-md">HTML</p>
+              <p className="bg-sky-400 px-[8px] m-[4px] rounded-md">CSS</p>
+             
             </div>
           </div>
-          <div className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
-          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
+          </a>
+          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2  shadow-xl rounded-2xl hover:scale-105 
+          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform" href="https://snazzy-speculoos-018cec.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <div >
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
                 src="../photos/img2.jpg"
@@ -42,18 +44,18 @@ export default function Component3() {
               />
             </div>
             <h3 className="text-[22px] font-bold text-black 2xl:font-semibold mt-2 mx-4 mb-1">
-              FAhafhha ahfajjafjk
+              VRCADE MANAGER
             </h3>
             <p className=" text-black text-left mx-4 mt-0  mb-5">
-              Fafasgsad about algfk and slg;dsgsdl;gl using klasklfkl and wihtok
-              sdg klsdgkl; lsdg. KGSKdskg. sdgkkdsg
+              A gaming club operator interface application. Sci-fi design & CSS animations. Enter visitor's name, choose a game to play, set timer and hit that launch button.
             </p>
-            <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5">
-              <p className="bg-color9 px-[8px] m-[4px] rounded-md">HTML</p>
-              <p className="bg-color11 px-[8px] m-[4px] rounded-md">CSS</p>
-              <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>
+            <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5 lg:mb-1">
+              <p className="bg-orange-400 px-[8px] m-[4px] rounded-md">HTML</p>
+              <p className="bg-sky-400 px-[8px] m-[4px] rounded-md">CSS</p>
+              <p className="bg-yellow-300 px-[8px] m-[4px] rounded-md">JAVASCRIPT</p>
             </div>
           </div>
+          </a>
           <div className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
           transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
@@ -69,7 +71,7 @@ export default function Component3() {
               Fafasgsad about algfk and slg;dsgsdl;gl using klasklfkl and wihtok
               sdg klsdgkl; lsdg. KGSKdskg. sdgkkdsg
             </p>
-            <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5">
+            <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5 lg:mb-1">
               <p className="bg-color9 px-[8px] m-[4px] rounded-md">HTML</p>
               <p className="bg-color11 px-[8px] m-[4px] rounded-md">CSS</p>
               <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>

@@ -6,6 +6,12 @@ function ImageGallery({ currentPhotoIndex, setCurrentPhotoIndex }) {
     "../photos/photo2.jpg",
     "../photos/photo3.jpg",
     "../photos/photo4.jpg",
+    "../photos/photo5.jpg",
+    "../photos/photo6.jpg",
+    "../photos/photo7.jpg",
+    "../photos/photo8.jpg",
+    "../photos/photo9.jpg",
+    "../photos/photo10.jpg",
   ];
 
   const goToPrevPhoto = () => {
@@ -688,7 +694,7 @@ export default function Component1() {
         </div>
 
         <div
-          className="bg-neutral-300  p-4 m-2 shadow-xl rounded-3xl mx-auto w-[420px] 2xl:h-full
+          className="bg-neutral-300  p-4 m-2 shadow-xl rounded-3xl mx-auto w-[420px] 2xl:h-full border-8  border-white
          md:w-[480px] lg:order-5 lg:col-start-1 lg:m-0 lg:col-end-3 lg:w-full lg:h-[130px] 2xl:order-5 2xl:col-start-1 2xl:col-end-2 2xl:flex 2xl:items-center"
         >
           <div className="flex justify-center items-center 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center ">
