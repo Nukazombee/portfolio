@@ -29,7 +29,7 @@ export default function Component3() {
             </p>
             <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5 lg:mb-1">
               <p className="bg-orange-400 px-[8px] m-[4px] rounded-md">HTML</p>
-              <p className="bg-sky-400 px-[8px] m-[4px] rounded-md">CSS</p>
+              <p className="bg-sky-500 px-[8px] m-[4px] rounded-md">CSS</p>
              
             </div>
           </div>
@@ -51,7 +51,7 @@ export default function Component3() {
             </p>
             <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5 lg:mb-1">
               <p className="bg-orange-400 px-[8px] m-[4px] rounded-md">HTML</p>
-              <p className="bg-sky-400 px-[8px] m-[4px] rounded-md">CSS</p>
+              <p className="bg-sky-500 px-[8px] m-[4px] rounded-md">CSS</p>
               <p className="bg-yellow-300 px-[8px] m-[4px] rounded-md">JAVASCRIPT</p>
             </div>
           </div>
@@ -65,16 +65,15 @@ export default function Component3() {
               />
             </div>
             <h3 className="text-[22px] font-bold text-black 2xl:font-semibold mt-2 mx-4 mb-1">
-              FAhafhha ahfajjafjk
+              CARD GAME DECK PAGE
             </h3>
             <p className=" text-black text-left mx-4 mt-0  mb-5">
-              Fafasgsad about algfk and slg;dsgsdl;gl using klasklfkl and wihtok
-              sdg klsdgkl; lsdg. KGSKdskg. sdgkkdsg
+              In this project I practiced using modules, props, useState, map, filter and other powerful features to make a visually appealing web page.
             </p>
             <div className="flex flex-wrap lg:w-full justify-start mx-4 mt-0 mb-5 lg:mb-1">
-              <p className="bg-color9 px-[8px] m-[4px] rounded-md">HTML</p>
-              <p className="bg-color11 px-[8px] m-[4px] rounded-md">CSS</p>
-              <p className="bg-color13 px-[8px] m-[4px] rounded-md">TAILWIND</p>
+              <p className="bg-orange-400 px-[8px] m-[4px] rounded-md">HTML</p>
+              <p className="bg-sky-500 px-[8px] m-[4px] rounded-md">CSS</p>
+              <p className="bg-cyan-400 px-[8px] m-[4px] rounded-md">REACT</p>
             </div>
           </div>
         </div>
