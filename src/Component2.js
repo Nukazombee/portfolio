@@ -133,12 +133,12 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[40%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-400 flex items-center justify-center">
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[30%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-400 flex items-center justify-center">
                 <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-sky-500 from-cyan-300 transition ease-out duration-200  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
-                  <p className="text-white text-center z-20">40%</p>
+                  <p className="text-white text-center z-20">30%</p>
                 </div>
               </div>
               <img

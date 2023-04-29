@@ -89,29 +89,37 @@ export default function Component3() {
         >
           <h2 className="text-3xl font-extrabold mb-6 text-color11 2xl:mb-3">PERSONAL</h2>
           <div className="flex justify-center items-center lg:flex-col 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center">
-            <div className="flex justify-between items-center lg:bg-color11  lg:mb-4  rounded-2xl group hover:cursor-pointer">
+            <a className="flex justify-between items-center lg:bg-color11  lg:mb-4  rounded-2xl group hover:cursor-pointer" href="https://denpixxxel.wixsite.com/warheads" target="_blank" rel="noopener noreferrer">
+            
               <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic1a.png" alt="ter"/>
-              <p className="hidden lg:inline-block p-2 mr-2 lg:text-white">A ahfjasjkj sadfafas fabout lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
-            </div>
-            <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
+              <p className="hidden lg:inline-block p-2 mr-2 lg:text-white text-left">DESIGNED A COUPLE OF BOARD GAMES. You can play even one via Tabletop Simulator online.</p>
+            
+            </a>
+            <a className="flex justify-between items-center lg:bg-color11  lg:mb-4  rounded-2xl group hover:cursor-pointer" href="https://opensea.io/collection/thelostkingdom" target="_blank" rel="noopener noreferrer">
+            
             <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic2a.png" alt="ter"/>
-              <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
-            </div>
-            <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
+              <p className="hidden lg:inline-block p-2 lg:text-white text-left">CREATED AN NFT COLLECTION and made some sales via Opensea. Also created two collections for US based projects.</p>
+           
+            </a>
+            <a className="flex justify-between items-center lg:bg-color11  lg:mb-4  rounded-2xl group hover:cursor-pointer" href="https://play.google.com/store/apps/details?id=com.KGB.VirusSurvival2" target="_blank" rel="noopener noreferrer" >
+            
             <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic3a.png" alt="ter" />
-              <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
-            </div>
-            <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
+              <p className="hidden lg:inline-block p-2 lg:text-white text-left">PUBLISHED A VIDEOS GAME on Google play. Soft used: VCS C#, UNITY, Adobe PS, other graphic and music editors.  </p>
+           
+            </a>
+            <a className="flex justify-between items-center lg:bg-color11  lg:mb-4  rounded-2xl group hover:cursor-pointer" href="https://www.instagram.com/nukazombee/" target="_blank" rel="noopener noreferrer" >
+            
             <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic4a.png" alt="ter"/>
-              <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
-            </div>
+              <p className="hidden lg:inline-block p-2 lg:text-white text-left">14000+ FOLLOWERS in my Instagram art account. Frozen since 2022 as I'm focused on coding now.</p>
+           
+            </a>
           </div>
         </div>
         <div
           className="bg-color11 shadow-xl p-4 pb-0 m-2 lg:m-0 rounded-3xl mx-auto w-[420px] md:w-[480px] lg:w-full flex flex-col
             items-center lg:order-2 2xl:order-3 2xl:row-start-3 2xl:row-end-4 2xl:col-start-3 2xl:col-end-4 lg:overflow-y-auto overflow-x-hidden"
         >
-          <h2 className="text-3xl font-extrabold text-white mb-6 2xl:mb-3">BLOG</h2>
+          <h2 className="text-3xl font-extrabold text-white mb-6 2xl:mb-3">JOURNAL</h2>
           
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
           rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
