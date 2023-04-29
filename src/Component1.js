@@ -275,6 +275,7 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 "
@@ -747,10 +748,10 @@ export default function Component1() {
          md:w-[480px] lg:order-5 lg:col-start-1 lg:m-0 lg:col-end-3 lg:w-full lg:h-[130px] 2xl:order-5 2xl:col-start-1 2xl:col-end-2 2xl:flex 2xl:items-center"
         >
           <div className="flex justify-center items-center 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center ">
-            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/igex2.png" />
-            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/fbex2.png" />
-            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/gitex2.png" />
-            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/gpex2.png" />
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/igex2.png" alt="ter"/>
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/fbex2.png" alt="ter"/>
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/gitex2.png" alt="ter"/>
+            <img className="scale-90 hover:scale-100 hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform hover:cursor-pointer" src="../photos/gpex2.png" alt="ter"/>
           </div>
         </div>
       </div>
