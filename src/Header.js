@@ -11,7 +11,7 @@ export default function Header(props) {
 
   return (
     <div >
-      <ul className={`flex justify-evenly items-center mt-6 ${activeComp === 'Component1' ? "bg-color13" : activeComp === 'Component2' ? "bg-color9" : activeComp === 'Component3' ? "bg-color11" : ''}  rounded-[500px] w-[420px] md:w-[480px] lg:w-[1000px] h-[36px] mx-auto  shadow-inner select-none }`}>
+      <ul className={`flex justify-evenly items-center mt-0 ${activeComp === 'Component1' ? "bg-color13" : activeComp === 'Component2' ? "bg-color9" : activeComp === 'Component3' ? "bg-color11" : ''}  rounded-[500px] w-[420px] md:w-[480px] lg:w-[1000px] h-[36px] mx-auto  shadow-inner select-none }`}>
         <li
           className={`mx-2 active:translate-x-[1px] active:translate-y-[2px] hover:text-color13 hover:cursor-pointer shadow-md transform transition ease-in-out rounded-xl px-2 ${
             props.component === "Component1" ? "translate-x-[1px] translate-y-[2px] bg-white text-color13 font-bold" : "bg-white text-color7 font-bold"

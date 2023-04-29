@@ -4,7 +4,7 @@ export default function Component2() {
   return (
     <div>
       <div
-        className="w-[90%] lg:w-[1000px] mx-auto mt-5 h-full auto-w lg:h-[1300px] 2xl:h-[960px]
+        className="w-[90%] lg:w-[1000px] mx-auto mt-4 h-full auto-w lg:h-[1300px] 2xl:h-[890px]
          2xl:w-[1500px]  "
       >
         <div className="bg-neutral-300 shadow-xl p-4 pb-0 m-2 lg:m-0 rounded-3xl mx-auto w-[420px] md:w-[480px] lg:w-full lg:h-full overflow-hidden">
