@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 
 export default function Component2() {
   return (
@@ -45,6 +45,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[26%]"
                 src="../photos/html5.png"
+                alt="ter"
               />
             </div>
             <div
@@ -77,6 +78,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/css3.png"
+                alt="ter"
               />
             </div>
             <div
@@ -109,6 +111,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/js.png"
+                alt="ter"
               />
             </div>
             <div
@@ -141,6 +144,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/react.png"
+                alt="ter"
               />
             </div>
             <div
@@ -173,6 +177,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/tw.png"
+                alt="ter"
               />
             </div>
             <div
@@ -205,6 +210,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/bs.png"
+                alt="ter"
               />
             </div>
             <div
@@ -237,6 +243,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/gitt.png"
+                alt="ter"
               />
             </div>
             <div
@@ -269,6 +276,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/redux.png"
+                alt="ter"
               />
             </div>
             <div
@@ -301,6 +309,7 @@ export default function Component2() {
               <img
                 className="absolute scale-[30%] -top-[24%]"
                 src="../photos/ts.png"
+                alt="ter"
               />
             </div>
             

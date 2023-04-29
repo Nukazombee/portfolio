@@ -204,22 +204,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -255,14 +260,17 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
@@ -271,6 +279,7 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -306,22 +315,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 opacity-0 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -357,22 +371,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 opacity-0 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -408,22 +427,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 opacity-0 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -459,22 +483,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -510,22 +539,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -561,22 +595,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 opacity-0 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -612,22 +651,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 opacity-0 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>
@@ -664,22 +708,27 @@ export default function Component1() {
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce2"
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce3 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce4 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                     <img
                       className="w-[16px] transform group-hover:animate-star-bounce5 "
                       src="../photos/star.png"
+                      alt="ter"
                     />
                   </div>
                 </span>

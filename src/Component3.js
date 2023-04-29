@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 
 export default function Component3() {
   return (
@@ -19,6 +19,7 @@ export default function Component3() {
               <img
                 src="../photos/img1.jpg"
                 className="h-full w-full object-cover rounded-t-2xl "
+                alt="ter"
               />
             </div>
             <h3 className="text-[22px] font-bold text-black 2xl:font-semibold mt-2 mx-4 mb-1">
@@ -41,6 +42,7 @@ export default function Component3() {
               <img
                 src="../photos/img2.jpg"
                 className="h-full w-full object-cover rounded-t-2xl "
+                alt="ter"
               />
             </div>
             <h3 className="text-[22px] font-bold text-black 2xl:font-semibold mt-2 mx-4 mb-1">
@@ -62,6 +64,7 @@ export default function Component3() {
               <img
                 src="../photos/img3.jpg"
                 className="h-full w-full object-cover rounded-t-2xl "
+                alt="ter"
               />
             </div>
             <h3 className="text-[22px] font-bold text-black 2xl:font-semibold mt-2 mx-4 mb-1">
@@ -85,19 +88,19 @@ export default function Component3() {
           <h2 className="text-3xl font-extrabold mb-6 text-color11 2xl:mb-3">PERSONAL</h2>
           <div className="flex justify-center items-center lg:flex-col 2xl:flex-wrap 2xl:justify-evenly 2xl:items-center">
             <div className="flex justify-between items-center lg:bg-color11  lg:mb-4  rounded-2xl group hover:cursor-pointer">
-              <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic1a.png" />
+              <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic1a.png" alt="ter"/>
               <p className="hidden lg:inline-block p-2 mr-2 lg:text-white">A ahfjasjkj sadfafas fabout lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
             <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
-            <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic2a.png" />
+            <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic2a.png" alt="ter"/>
               <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
             <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
-            <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic3a.png" />
+            <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic3a.png" alt="ter" />
               <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
             <div className="flex justify-between items-center lg:bg-color11 lg:mb-4  rounded-2xl group hover:cursor-pointer">
-            <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic4a.png" />
+            <img className="scale-90 group-hover:scale-100 group-hover:-rotate-6 transition-all duration-200 ease-in-out will-change-transform" src="../photos/ic4a.png" alt="ter"/>
               <p className="hidden lg:inline-block p-2 lg:text-white">A ahfjasjkj about lasfl;s and sgldsgosdgok using ksdgsdlg;ls;dh and lgsdl;.</p>
             </div>
           </div>
