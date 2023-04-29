@@ -112,40 +112,40 @@ export default function Component3() {
             items-center lg:order-2 2xl:order-3 2xl:row-start-3 2xl:row-end-4 2xl:col-start-3 2xl:col-end-4 lg:overflow-y-auto overflow-x-hidden"
         >
           <h2 className="text-3xl font-extrabold text-white mb-6 2xl:mb-3">BLOG</h2>
+          
+          <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
+            <date className="text-white 2xl:text-left">30 April</date>
+
+            <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+              Netlify website scale issue
+            </h3>
+            <p className="text-white text-left 2xl:mb-5">
+              For some reason when I build a page in localhost it looks normal but after deploying in Netflix via Github the page elements are somehow larger. I leave it like that for now...
+            </p>
+          </div>
+
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
           rounded-tl-2xl rounded-bl-2xl 2xl:w-full 2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">24 April</date>
+            <date className="text-white 2xl:text-left">28 April</date>
 
             <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
-              FAhafhha ahfajjafjk
+              Deploy errors
             </h3>
             <p className="text-white text-left 2xl:mb-5">
-              Fafasgsad about algfk and slg;dsgsdl;gl using klasklfkl and wihtok
-              sdg klsdgkl; lsdg. KGSKdskg. sdgkkdsgadwawdawdawdawdawd wad awd dw
+              I spent like 10 hours in two days trying to solve an arror with deploying my projects on Netlify. After numerous tests and trying different approaches I realised the key to fix errors was in the deployment log.
             </p>
           </div>
+
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
           rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">24 April</date>
+            <date className="text-white 2xl:text-left">27 April</date>
 
             <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
-              FAhafhha ahfajjafjk
+              All lost
             </h3>
             <p className="text-white text-left 2xl:mb-5">
-              Fafasgsad about algfk and slg;dsgsdl;gl using klasklfkl and wihtok
-              sdg klsdgkl; lsdg. KGSKdskg. sdgkkdsgadwawdawdawdawdawd wad awd dw
-            </p>
-          </div>
-          <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
-          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">24 April</date>
-
-            <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
-              FAhafhha ahfajjafjk
-            </h3>
-            <p className="text-white text-left 2xl:mb-5">
-              Fafasgsad about algfk and slg;dsgsdl;gl using klasklfkl and wihtok
-              sdg klsdgkl; lsdg. KGSKdskg. sdgkkdsgadwawdawdawdawdawd wad awd dw
+            I think I messed up the whole Warheads react page project. Can't restore GIT commits anymore as acted intuitively.
             </p>
           </div>
         </div>
