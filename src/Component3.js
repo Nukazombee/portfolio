@@ -58,8 +58,9 @@ export default function Component3() {
             </div>
           </div>
           </a>
-          <div className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
-          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform">
+          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
+          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform" href="https://astonishing-salamander-2a4b61.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <div >
             <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
               <img
                 src="../photos/img3.jpg"
@@ -79,6 +80,7 @@ export default function Component3() {
               <p className="bg-cyan-400 px-[8px] m-[4px] rounded-md">REACT</p>
             </div>
           </div>
+          </a>
         </div>
         <div
           className="bg-white p-4 m-2  shadow-xl rounded-3xl mx-auto w-[420px] 
