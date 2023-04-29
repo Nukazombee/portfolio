@@ -122,61 +122,61 @@ export default function Component3() {
           <h2 className="text-3xl font-extrabold text-white mb-6 2xl:mb-3">JOURNAL</h2>
           
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
-          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">30 April</date>
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
+            <date className="text-white 2xl:text-left text-[12px]">30 April</date>
 
-            <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
               Scale issue solved!
             </h3>
-            <p className="text-white text-left 2xl:mb-5">
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
               Lol browser screen scale was 90% for all my projects on localhost! At least I know how to fix em now!
             </p>
           </div>
 
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
-          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">30 April</date>
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
+            <date className="text-white 2xl:text-left text-[12px]">30 April</date>
 
-            <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
               Netlify website scale issue
             </h3>
-            <p className="text-white text-left 2xl:mb-5">
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
               For some reason when I build a page in localhost it looks normal but after deploying in Netflix via Github the page elements are somehow larger. I leave it like that for now...
             </p>
           </div>
           
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
-          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">29 April</date>
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
+            <date className="text-white 2xl:text-left text-[12px]">29 April</date>
 
-            <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
               Netlify website scale issue
             </h3>
-            <p className="text-white text-left 2xl:mb-5">
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
               For some reason when I build a page in localhost it looks normal but after deploying in Netflix via Github the page elements are somehow larger. I leave it like that for now...
             </p>
           </div>
 
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
-          rounded-tl-2xl rounded-bl-2xl 2xl:w-full 2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">28 April</date>
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full 2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
+            <date className="text-white 2xl:text-left text-[12px]">28 April</date>
 
-            <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
               Deploy errors
             </h3>
-            <p className="text-white text-left 2xl:mb-5">
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
               I spent like 10 hours in two days trying to solve an arror with deploying my projects on Netlify. After numerous tests and trying different approaches I realised the key to fix errors was in the deployment log.
             </p>
           </div>
 
           <div className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
-          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-6  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
-            <date className="text-white 2xl:text-left">27 April</date>
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col">
+            <date className="text-white 2xl:text-left text-[12px]">27 April</date>
 
-            <h3 className="mx-auto m-2 text-[22px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
-              All lost
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+              Its all lost
             </h3>
-            <p className="text-white text-left 2xl:mb-5">
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
             I think I messed up the whole Warheads react page project. Can't restore GIT commits anymore as acted intuitively.
             </p>
           </div>
