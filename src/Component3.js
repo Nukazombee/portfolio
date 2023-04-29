@@ -12,10 +12,10 @@ export default function Component3() {
             items-center 2xl:order-1 2xl:col-start-1 2xl:col-end-3 2xl:row-start-1 2xl:row-end-4 2xl:flex-row 2xl:flex-wrap 2xl:justify-evenly 2xl:items-start"
         >
           <h2 className="text-3xl font-extrabold text-color11 2xl:w-full">WEB DEV</h2>
-          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2  shadow-xl rounded-2xl hover:scale-105 
-          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform" href="https://symphonious-wisp-7d0bd7.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2  shadow-xl rounded-2xl hover:scale-95  2xl:hover:scale-105 
+          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform lg:w-[700px]" href="https://symphonious-wisp-7d0bd7.netlify.app/" target="_blank" rel="noopener noreferrer">
           <div >
-            <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
+            <div className="flex justify-between items-center h-[240px] lg:h-[420px] 2xl:h-[250px] w-full mx-auto ">
               <img
                 src="../photos/img1.jpg"
                 className="h-full w-full object-cover rounded-t-2xl "
@@ -35,10 +35,10 @@ export default function Component3() {
             </div>
           </div>
           </a>
-          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2  shadow-xl rounded-2xl hover:scale-105 
-          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform" href="https://snazzy-speculoos-018cec.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2  shadow-xl rounded-2xl hover:scale-95  2xl:hover:scale-105
+          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform lg:w-[700px]" href="https://snazzy-speculoos-018cec.netlify.app/" target="_blank" rel="noopener noreferrer">
           <div >
-            <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
+            <div className="flex justify-between items-center h-[240px] lg:h-[420px] 2xl:h-[250px] w-full mx-auto ">
               <img
                 src="../photos/img2.jpg"
                 className="h-full w-full object-cover rounded-t-2xl "
@@ -58,10 +58,10 @@ export default function Component3() {
             </div>
           </div>
           </a>
-          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-105 
-          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform" href="https://astonishing-salamander-2a4b61.netlify.app/" target="_blank" rel="noopener noreferrer">
+          <a className="bg-white border-solid border-[6px] border-white m-2 w-full flex flex-col items-start 2xl:w-[45%] mx-2 mb-2 shadow-xl rounded-2xl hover:scale-95  2xl:hover:scale-105
+          transition-all duration-200 ease-in-out hover:cursor-pointer will-change-transform lg:w-[700px]" href="https://astonishing-salamander-2a4b61.netlify.app/" target="_blank" rel="noopener noreferrer">
           <div >
-            <div className="flex justify-between items-center h-[240px] lg:h-[480px] 2xl:h-[260px] w-full mx-auto ">
+            <div className="flex justify-between items-center h-[240px] lg:h-[420px] 2xl:h-[250px] w-full mx-auto ">
               <img
                 src="../photos/img3.jpg"
                 className="h-full w-full object-cover rounded-t-2xl "
