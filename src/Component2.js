@@ -19,7 +19,7 @@ export default function Component2() {
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
               scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-red-700 to-orange-400
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -36,7 +36,7 @@ export default function Component2() {
                 overflow-hidden flex items-center justify-center relative rounded-r-xl "
                 >
                   <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r from-orange-400 to-orange-600 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-orange-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 z-10 rounded-r-xl"
                   ></div>
                   <p className="text-white text-center z-20">75%</p>
@@ -54,8 +54,8 @@ export default function Component2() {
             >
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
-              scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-color11 to-blue-400
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-color11 to-blue-500
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -69,7 +69,7 @@ export default function Component2() {
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
                 <div className=" rounded-r-xl relative overflow-hidden bg-primary text-center w-[75%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-blue-400 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-sky-600 from-blue-400 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-blue-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">75%</p>
@@ -88,7 +88,7 @@ export default function Component2() {
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
               scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-orange-400 to-yellow-300
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -100,9 +100,9 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[42%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-yellow-400 flex items-center justify-center">
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[42%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-yellow-300 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-orange-400 from-yellow-400 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-yellow-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">42%</p>
@@ -121,7 +121,7 @@ export default function Component2() {
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
               scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-sky-600 to-cyan-300
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -133,9 +133,9 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[30%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-400 flex items-center justify-center">
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[30%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-300 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-sky-500 from-cyan-300 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-sky-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">30%</p>
@@ -154,7 +154,7 @@ export default function Component2() {
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
               scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-emerald-500 to-teal-300
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -166,9 +166,9 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[80%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-emerald-400 flex items-center justify-center">
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[80%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-teal-300 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-emerald-500 from-teal-300 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-emerald-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">80%</p>
@@ -186,8 +186,8 @@ export default function Component2() {
             >
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
-              scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-indigo-600 to-violet-400
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-indigo-600 to-violet-300
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -199,9 +199,9 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-500 flex items-center justify-center">
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-300 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-indigo-500 from-violet-400 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-violet-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">25%</p>
@@ -220,7 +220,7 @@ export default function Component2() {
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
               scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-red-700 to-red-400
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -232,9 +232,9 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[50%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-red-500 flex items-center justify-center">
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[50%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-red-400 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-red-600 from-red-400 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-red-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">50%</p>
@@ -253,7 +253,7 @@ export default function Component2() {
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
               scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-indigo-600 to-violet-400
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -265,9 +265,9 @@ export default function Component2() {
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[15%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-500 flex items-center justify-center">
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[15%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-400 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r  to-indigo-500 from-violet-400 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-violet-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">15%</p>
@@ -286,7 +286,7 @@ export default function Component2() {
               <div
                 className="h-[280px] w-full bg-red-500 rounded-full transform 
               scale-[170%] -translate-x-[66px] -translate-y-[220px] rotate-[-25deg] grid place-items-center bg-gradient-to-bl from-color11 to-blue-400
-              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-200 will-change-transform"
+              group-hover:skew-x-12 group-hover:-rotate-[18deg] transition-all ease-in-out duration-500 will-change-transform"
               ></div>
               <div className="flex flex-col items-center w-[80%] my-0 mx-auto -translate-y-[127px]">
                 <h1 className="text-center mt-1 mb-2 text-2xl font-bold">
@@ -300,7 +300,7 @@ export default function Component2() {
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
                 <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[15%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-blue-400 flex items-center justify-center">
                 <div
-                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-gradient-to-r to-sky-600 from-blue-400 transition ease-out duration-200  w-full h-full  
+                    className="absolute -translate-x-[100%] opacity-0 origin-left bg-blue-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
                   <p className="text-white text-center z-20">15%</p>
