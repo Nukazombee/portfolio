@@ -1,5 +1,3 @@
-
-
 export default function Component2() {
   return (
     <div>
@@ -26,8 +24,8 @@ export default function Component2() {
                   HTML
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  HTML is a markup language used to create the structure and
+                  content of web pages
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px] ">
@@ -62,13 +60,13 @@ export default function Component2() {
                   CSS
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  CSS is a style sheet language used to describe the
+                  presentation of HTML documents
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
                 <div className=" rounded-r-xl relative overflow-hidden bg-primary text-center w-[75%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-blue-400 flex items-center justify-center">
-                <div
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-blue-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
@@ -95,17 +93,17 @@ export default function Component2() {
                   JAVASCRIPT
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  JavaScript is a high-level programming language used to create
+                  interactive and dynamic web pages
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[42%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-yellow-300 flex items-center justify-center">
-                <div
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[52%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-yellow-300 flex items-center justify-center">
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-yellow-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
-                  <p className="text-white text-center z-20">42%</p>
+                  <p className="text-white text-center z-20">52%</p>
                 </div>
               </div>
               <img
@@ -128,17 +126,17 @@ export default function Component2() {
                   REACT
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  JS library for building user interfaces, focused on the
+                  component-based approach
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[30%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-300 flex items-center justify-center">
-                <div
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[34%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-sky-300 flex items-center justify-center">
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-sky-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
-                  <p className="text-white text-center z-20">30%</p>
+                  <p className="text-white text-center z-20">34%</p>
                 </div>
               </div>
               <img
@@ -161,13 +159,13 @@ export default function Component2() {
                   TAILWIND
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  CSS utility framework that provides pre-defined classes for
+                  designing customizable UI
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
                 <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[80%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-teal-300 flex items-center justify-center">
-                <div
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-emerald-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
@@ -194,13 +192,13 @@ export default function Component2() {
                   BOOTSTRAP
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  Bootstrap is a popular front-end web development framework
+                  used to design websites
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
                 <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[25%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-300 flex items-center justify-center">
-                <div
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-violet-400 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
@@ -227,13 +225,13 @@ export default function Component2() {
                   GIT
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  Version control system that helps devs track changes in code
+                  and collaborate on projects
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
                 <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[50%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-red-400 flex items-center justify-center">
-                <div
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-red-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
@@ -260,17 +258,17 @@ export default function Component2() {
                   REDUX
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  Predictable state container for JS, which helps manage the
+                  state in a more organized way
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
-                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[15%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-400 flex items-center justify-center">
-                <div
+                <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[18%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-violet-400 flex items-center justify-center">
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-violet-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
-                  <p className="text-white text-center z-20">15%</p>
+                  <p className="text-white text-center z-20">18%</p>
                 </div>
               </div>
               <img
@@ -293,13 +291,13 @@ export default function Component2() {
                   TYPESCRIPT
                 </h1>
                 <p className="text-center mb-1">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  TypeScript: a statically typed superset of JavaScript that
+                  adds optional type annotations
                 </p>
               </div>
               <div class="w-80% h-8 bg-neutral-300 dark:bg-neutral-600 m-3 rounded-md mb-4 -translate-y-[127px]">
                 <div className="rounded-r-xl relative overflow-hidden bg-primary text-center w-[15%] h-full font-medium leading-none text-primary-100 bg-gradient-to-bl bg-blue-400 flex items-center justify-center">
-                <div
+                  <div
                     className="absolute -translate-x-[100%] opacity-0 origin-left bg-blue-500 transition ease-out duration-500  w-full h-full  
                   group-hover:translate-x-[0%] group-hover:opacity-100 rounded-r-xl z-10"
                   ></div>
@@ -312,7 +310,6 @@ export default function Component2() {
                 alt="ter"
               />
             </div>
-            
           </div>
         </div>
       </div>
