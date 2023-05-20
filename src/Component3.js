@@ -197,6 +197,51 @@ export default function Component3() {
             className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
           rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col"
           >
+            <date className="text-white 2xl:text-left text-[12px]">21 May</date>
+
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+              Typescript is boring but necessary
+            </h3>
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
+              Apparently it allows better teamwork and compile-stage debugging.
+              And its all about data types.
+            </p>
+          </div>
+
+          <div
+            className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col"
+          >
+            <date className="text-white 2xl:text-left text-[12px]">18 May</date>
+
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+              Why TS?
+            </h3>
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
+              Many positions require knowledge of Typescript. It is time to
+              learn how it works!
+            </p>
+          </div>
+
+          <div
+            className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col"
+          >
+            <date className="text-white 2xl:text-left text-[12px]">12 May</date>
+
+            <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
+              Learning JS methods
+            </h3>
+            <p className="text-white text-left 2xl:mb-1 text-[16px] font-normal">
+              Before I go any further I better learn 20-30 most useful JS
+              methods.
+            </p>
+          </div>
+
+          <div
+            className="bg-white bg-opacity-20 m-1 mt-0 mb-3 p-4 pt-1 shadow-lg lg:w-full 
+          rounded-tl-2xl rounded-bl-2xl 2xl:w-full  2xl:mb-3  2xl:p-4 2xl:min-h-fit 2xl:flex 2xl:flex-col"
+          >
             <date className="text-white 2xl:text-left text-[12px]">7 May</date>
 
             <h3 className="mx-auto m-1 mt-0 text-[18px] font-bold text-white 2xl:mx-0 2xl:text-left 2xl:font-semibold">
